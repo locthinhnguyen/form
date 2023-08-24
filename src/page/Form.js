@@ -283,7 +283,6 @@ const Form = () => {
         >
           Submit
         </button>
-        {/* <img src="https://imagedelivery.net/z-mG00pdN_cvu951VzahyQ/f4eede3b-684c-4f8e-3138-404e2949b200/public"></img> */}
       </form>
     </div>
   );
